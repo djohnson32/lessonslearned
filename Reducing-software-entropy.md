@@ -5,6 +5,7 @@ The Broken Window Theory describes how if an apartment window is broken and left
 
 
 [Wikipedia entry on Software Entropy] (https://en.wikipedia.org/wiki/Software_entropy)
+
 [Further reading on Software Entropy](https://pragprog.com/the-pragmatic-programmer/extracts/software-entropy)
 
 ![alt text](http://graphics8.nytimes.com/images/2011/02/24/nyregion/WINDOWS/WINDOWS-blog480.jpg "Logo Title Text 1")
