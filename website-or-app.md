@@ -1,6 +1,6 @@
 # Website or App? What's better for first timers?
 
-[Here's detailed information on the subject.](http://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/) which I've summarized below.
+[Here's detailed information on the subject](http://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/) which I've summarized below.
 
 This takeaway from the Digital Literacy class describes the benefits of starting off with using a website versus a mobile app. There are several reasons to do so:
 
