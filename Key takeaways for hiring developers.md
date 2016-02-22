@@ -1,3 +1,5 @@
+# Key takeaways for hiring developers
+
 Developers have become some of the most sought-after talent. An effective development team helps the company deliver the right product at the right time. They understand the needs of the customer and build software to adeptly solve common problems. Engaged developers provide unique and valuable ideas to the product team and automate tedious processes, which can in turn save crucial time for the company. An important key to a company’s success is ensuring an effective way to source, attract, and retain talent.
 Infoworld provides a nice article on 7 simple rules for hiring great developers: http://www.infoworld.com/article/2609792/it-careers/7-simple-rules-for-hiring-great-developers.html
 
