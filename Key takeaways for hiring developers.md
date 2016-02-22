@@ -15,5 +15,6 @@ Retaining talent
 - Invest in technical and career development – whether it’s sending the developer to conferences and off-site training, it’s important to take an active investment in the engineer’s career development
 - Allow autonomy – let the team decide for themselves how to best solve to high-level issue; as long as periodic check-ins are happening, a good developer will thrive in this environment
 - Trust them with the whole picture – ensure two-way communication with the developers
+- Provide developers with continued stock upside
 
 ![alt text](http://www.jeffreydev.com/wp-content/uploads/2013/04/developer.jpg "Logo Title Text 1")
