@@ -21,6 +21,8 @@ of a phone like a native app, but they rely on HTML being rendered on a browser 
 are a great option for people that already have an HTML website and are looking for a cost-effective way to make 
 the app compatible across different platforms.
 
+[NielsonNormanGroup](https://www.nngroup.com/articles/mobile-native-apps/)
+
 ![Different Types of Apps](https://s3.amazonaws.com/dfc-wiki/en/images/c/c2/Native_html5_hybrid.png)
 
-[NielsonNormanGroup](https://www.nngroup.com/articles/mobile-native-apps/)
+
