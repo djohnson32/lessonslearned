@@ -1,3 +1,5 @@
+Types of Apps
+
 When looking to create a new app, you best be informed about what your different options are...Or else!
 Basically, apps can be divided into three different categories:
   * Native
