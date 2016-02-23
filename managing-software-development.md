@@ -16,5 +16,5 @@ The Production Board piece of this is a helpful day-to-day management tool. Here
 
 Each letter on the board is a concrete task that should not take more than a day or two. Each team member should not be assigned too many different tasks at once to avoid too much multi-tasking.  Where tasks are pooling a production board can tell a manager about the team’s progress and issues they might be facing. Too many ideas in the “back-log” or “to-do” columns might slow the team down. Don’t feel the need to keep every single idea on the board, good ideas will come back to you! The “Designing”/”Developing” (or “In-Progress” or “Doing”) columns should also not be too full. If anyone column seems to have all the tasks accumulating it, try to figure out what the bottle neck is and eliminate it. 
 
-As tasks are shifted to the “Done” column, as a manager you should see incrementally added functionality each week. This will be an indication to you that your team is making progress! 
+As tasks are shifted to the “Done” column, as a manager you should see incrementally added functionality each week. This will be an indication to you that your team is making progress. 
 
